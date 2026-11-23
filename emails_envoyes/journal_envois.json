@@ -1,0 +1,50 @@
+[
+    {
+        "rdv_id": 3,
+        "patient": "David Tshilumba",
+        "email": "david.tshilumba@yahoo.fr",
+        "sujet": "Confirmation de votre Rendez-vous Médical #RDV-00003 — Clinique UCC",
+        "date_envoi": "2026-11-02 20:36:44",
+        "fichier_html": "email_rdv_3_20261102_203644.html",
+        "mail_succes": false
+    },
+    {
+        "rdv_id": 60,
+        "patient": "QUEEN KAYKA",
+        "email": "audreykas880@gmail.com",
+        "sujet": "Confirmation de votre Rendez-vous Médical #RDV-00060 — Clinique UCC",
+        "date_envoi": "2026-11-02 21:38:46",
+        "fichier_html": "email_rdv_60_20261102_213846.html",
+        "mail_succes": false
+    },
+    {
+        "rdv_id": 60,
+        "patient": "QUEEN KAYKA",
+        "email": "audreykas880@gmail.com",
+        "sujet": "Confirmation de votre Rendez-vous Médical #RDV-00060 — Clinique UCC",
+        "date_envoi": "2026-11-02 22:21:21",
+        "fichier_html": "email_rdv_60_20261102_222121.html",
+        "mail_succes": true,
+        "smtp_erreur": null
+    },
+    {
+        "rdv_id": 61,
+        "patient": "Merveilles Ngoy",
+        "email": "merveillesngoy@gmail.com",
+        "sujet": "Confirmation de votre Rendez-vous Médical #RDV-00061 — Centre Médical Hope",
+        "date_envoi": "2026-11-04 13:24:37",
+        "fichier_html": "email_rdv_61_20261104_132437.html",
+        "mail_succes": true,
+        "smtp_erreur": null
+    },
+    {
+        "rdv_id": 61,
+        "patient": "Merveilles Ngoy",
+        "email": "merveillesngoy@gmail.com",
+        "sujet": "Confirmation de votre Rendez-vous Médical #RDV-00061 — Centre Médical Hope",
+        "date_envoi": "2026-11-10 20:21:40",
+        "fichier_html": "email_rdv_61_20261110_202140.html",
+        "mail_succes": true,
+        "smtp_erreur": null
+    }
+]

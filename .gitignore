@@ -1,0 +1,27 @@
+# =====================================================================
+# GITIGNORE — Centre Médical Hope
+# =====================================================================
+
+# Fichiers système et explorateur
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Environnements et éditeurs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.settings/
+
+# Fichiers temporaires et sauvegardes locales
+*.bak
+*.tmp
+*.log
+database/backup_*.sql
+
+# Logs PHP / Serveur local
+error_log
+php_error.log
